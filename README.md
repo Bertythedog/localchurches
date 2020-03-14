@@ -1,2 +1,0 @@
-# localchurches
-Local Church Events
