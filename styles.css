@@ -146,10 +146,10 @@ a:hover {
   font-weight: normal;
   padding: 20px;
   background-color: #66BFBF;
-  -webkit-box-shadow: 1px 1px 10px #000000;
-  -moz-box-shadow: 1px 1px 10px #000000;
-  box-shadow: 1px 1px 10px #000000;
-  text-shadow: 1px 1px 10px #000000;
+  -webkit-box-shadow: 1px 1px 20px #000000;
+  -moz-box-shadow: 1px 1px 20px #000000;
+  box-shadow: 1px 1px 20px #000000;
+  text-shadow: 1px 1px 20px #000000;
   border: solid #66BFBF 1px;
   text-decoration: none;
   display: inline-block;
@@ -165,8 +165,8 @@ a:hover {
   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
   background-image: linear-gradient(to bottom, #1E62D0, #3D94F6);
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
   text-decoration: none;
 }
