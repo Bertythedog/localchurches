@@ -58,11 +58,13 @@ hr {
 
 .font-color {
   color: #40514E;
+  font-size: 16;
 }
 
 .footer-link {
   color: #084042;
   font-size: 28;
+  text-decoration: none;
 }
 
 .leftalign {
