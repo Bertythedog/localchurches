@@ -53,8 +53,7 @@ hr {
 
 
 .colorfont {
-  color: #084042;
-  font: bold;
+  color: white;
 }
 
 .font-color {
@@ -62,8 +61,8 @@ hr {
 }
 
 .footer-link {
-  color: #11999E;
-  text-decoration: none;
+  color: #084042;
+  font-size: 28;
 }
 
 .leftalign {
